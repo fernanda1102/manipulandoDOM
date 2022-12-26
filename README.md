@@ -1,4 +1,7 @@
-**Descrição**
+<h1 align="center"> Descrição </h1>
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 
 Fiz uma manipulação do DOM com foco na linguagem Front-End, que é o JavaScript.
 
