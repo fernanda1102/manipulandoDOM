@@ -1,42 +1,56 @@
-**Description**
+**Descrição**
 
-Made a manipulation of the DOM focused on the Front-End language, which is JavaScript.
+Fiz uma manipulação do DOM com foco na linguagem Front-End, que é o JavaScript.
 
-Through the emphasis, the generated project was the Robotron 2030, being possible to add parts in the gear that composes a robot and see the dynamically updated statistics with JavaScript.
+Através da ênfase, o projeto gerado foi o Robotron 2030, sendo possível adicionar peças na engrenagem que compõe um robô e visualizar as estatísticas atualizadas dinamicamente com JavaScript.
 
 
 ![image](https://user-images.githubusercontent.com/108702091/208470778-f911af06-d03c-41eb-b471-d66bee6d0920.png)
 
-**Summary of what was used**
+**Processo de evolução do projeto**
 
-• We developed the first steps of the Robotron 2000 project;
+Aula 1
 
-• We define what the DOM is;
+• Desenvolvemos os primeiros passos do projeto Robotron 2000;
 
-• We learned how to manipulate elements in the DOM.
+• Definimos o que é o DOM;
 
-• We learned to select one or more elements with querySelector()/querySelectorAll();
+• Aprendemos como manipular elementos no DOM.
 
-• We learned how to use the addEventListener() method;
+Aula 2
 
-• We define the differences between anonymous function and function;
+• Aprendemos a selecionar um ou mais elementos com querySelector()/querySelectorAll();
 
-• We understand JavaScript hoisting behavior;
+• Aprendemos como utilizar o método addEventListener();
 
-• We define what an Array is and how to manipulate its objects;
+• Definimos as diferenças entre função anônima e função;
 
-• How to use arrow functions;
+• Entendemos o comportamento de hoisting no JavaScript;
 
-• How to use the splice() method to remove items.
 
-• We learned how to use the parentNode property;
+Aula 3
 
-• We defined what is data-attributes;
+• Definimos o que é Array e como manipular seus objetos;
 
-• We create functions to manipulate elements in the DOM with data-attributes.
+• Como utilizar arrow functions;
 
-• We define what objects are and analyze methods to manipulate them;
+• Como utilizar o método splice() para remover itens.
 
-• We refactored the project's code, learning how to manipulate arrays and using forEach;
+ 
 
-• We learned how to apply cloud projects using vercel and github.
+Aula 4
+
+• Aprendemos como utilizar a propriedade parentNode;
+
+• Definimos o que é data-attributes;
+
+• Criamos funções para manipular elementos no DOM com data-attributes.
+
+Aula 5
+ 
+• Definimos o que são objetos e analisamos métodos para manipulá-los;
+
+• Refatoramos o código do projeto, aprendendo como manipular arrays e utilizando forEach;
+
+• Aprendemos como aplicar projetos na nuvem utilizando vercel e github.
+
