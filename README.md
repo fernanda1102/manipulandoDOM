@@ -1,26 +1,50 @@
-<h1 align="center"> Descrição </h1>
+<h1 align="center"> Manipulando o DOM </h1>
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)  ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)  
 
+# Índice 
 
-Fiz uma manipulação do DOM com foco na linguagem Front-End, que é o JavaScript.
+* [Descrição do projeto](#descrição-do-projeto)
+* [Funcionalidades do projeto](#status-do-Projeto)
+* [Acesso ao projeto](#funcionalidades-e-demonstração-da-aplicação)
+* [Abrir e rodar o projeto](#acesso-ao-projeto)
+* [Processo de evolução do projeto](#tecnologias-utilizadas)
+* [Ferramentas utilizadas](#pessoas-contribuidoras)
+* [Desenvolvedores do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
 
-Através da ênfase, o projeto gerado foi o Robotron 2030, sendo possível adicionar peças na engrenagem que compõe um robô e visualizar as estatísticas atualizadas dinamicamente com JavaScript.
+# 🛠️ Descrição do projeto 
 
+Projeto em desenvolvimento para interagir com o JavaScript, tendo um avanço para melhor entendimento de como funciona o JavaScript. Buscando os elementos e interagindo com ele, manipulamos o evento de clique no elemento para usarmos duas funções diferentes, uma para atualizar as engrenagens e outra para atualizar as estatísticas do robô.
 
-![image](https://user-images.githubusercontent.com/108702091/208470778-f911af06-d03c-41eb-b471-d66bee6d0920.png)
+# 🛠️ Funcionalidades do projeto
 
-**Processo de evolução do projeto**
+- `Funcionalidade 1`: Aumentar a força do robô
+- `Funcionalidade 2`: Diminuir a força do robô
+- `Funcionalidade 3`: Manipulando a força de acordo com as estatística fornecidas
 
-Aula 1
+![](https://user-images.githubusercontent.com/108702091/209583780-2b8db9ef-ce55-4922-8cf5-52bc84d2143d.gif)
 
-• Desenvolvemos os primeiros passos do projeto Robotron 2000;
+# 📁 Acesso ao projeto
+
+**Indique como é possível baixar ou acessar o código fonte do projeto, seja projeto inicial ou final**
+
+# 🛠️ Abrir e rodar o projeto
+
+**Apresente as instruções necessárias para abrir e executar o projeto**
+
+# 🛠️ Processo de evolução do projeto
+
+## Etapa 1
+
+• Desenvolvemos os primeiros passos do projeto Robotron 2030;
 
 • Definimos o que é o DOM;
 
 • Aprendemos como manipular elementos no DOM.
 
-Aula 2
+## Etapa 2
 
 • Aprendemos a selecionar um ou mais elementos com querySelector()/querySelectorAll();
 
@@ -31,7 +55,7 @@ Aula 2
 • Entendemos o comportamento de hoisting no JavaScript;
 
 
-Aula 3
+## Etapa 3
 
 • Definimos o que é Array e como manipular seus objetos;
 
@@ -39,9 +63,8 @@ Aula 3
 
 • Como utilizar o método splice() para remover itens.
 
- 
 
-Aula 4
+## Etapa 4
 
 • Aprendemos como utilizar a propriedade parentNode;
 
@@ -49,7 +72,8 @@ Aula 4
 
 • Criamos funções para manipular elementos no DOM com data-attributes.
 
-Aula 5
+
+## Etapa 5
  
 • Definimos o que são objetos e analisamos métodos para manipulá-los;
 
@@ -57,3 +81,12 @@ Aula 5
 
 • Aprendemos como aplicar projetos na nuvem utilizando vercel e github.
 
+
+
+# 🛠️ Ferramentas utilizadas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+# Desenvolvedores do Projeto
+
+[<img src="![profile-pic](https://user-images.githubusercontent.com/108702091/209584951-8a2da900-174e-455e-b990-f60c080a1a68.png)" width=115><br><sub>Fernanda Corredera</sub>](https://github.com/fernanda1102) 
