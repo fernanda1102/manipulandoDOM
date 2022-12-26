@@ -11,8 +11,6 @@
 * [Processo de evolução do projeto](#tecnologias-utilizadas)
 * [Ferramentas utilizadas](#pessoas-contribuidoras)
 * [Desenvolvedores do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
 
 # 🛠️ Descrição do projeto 
 
